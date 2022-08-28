@@ -9,6 +9,7 @@
 * [Font Awesome](https://fontawesome.com)
 * [jQuery](https://jquery.com/)
 * [Animate.css](http://daneden.me/animate)
+* [Visual Studo Code](https://code.visualstudio.com/)
 
 ## Click on the link below to view the curriculum.
 
